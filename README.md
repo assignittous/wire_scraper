@@ -26,7 +26,7 @@ The second script, `parse.js`, opens up `wire_episodes.html` and traverses the d
 3. How to run a command in a terminal or DOS window
 
 
-### Get It Working
+## Pre-Flight Tasks
 
 Using a shell or DOS prompt, install the required dependencies
 
@@ -44,7 +44,7 @@ After that, enter this command:
 
 This should take a minute or less. In the unlikely event that the command gneerates warnings, you can ignore them. If you get an error, you may have a problem related to your Node install.
 
-### Run each script
+## Run each script
 
 `node scrape.js`
 
