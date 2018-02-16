@@ -1,4 +1,4 @@
 node_modules/
-*.csv
-*.json
-*.html
+wire_episodes.csv
+wire_episodes.json
+wire_episodes.html
