@@ -46,17 +46,9 @@ This should take a minute or less. In the unlikely event that the command gneera
 
 ### Run each script
 
-`node scrape`
-
-or
-
 `node scrape.js`
 
-This will make an http request to Wikipedia's page for The Wire episodes, and save the page as HTML locally. The reason why this script is split from the parsing script is to be nice and not flood Wikipedia with unnecessary requests. You only need to run this script once.
-
-`node parse`
-
-or
+This will make an http request to Wikipedia's page for The Wire episodes, and save the page as HTML locally. The reason why this script is split from the parsing script is to be nice and not flood Wikipedia with unnecessary requests. *You only need to run this script once.*
 
 `node parse.js`
 
