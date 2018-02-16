@@ -1,0 +1,17 @@
+{
+  "name": "wire_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Ng",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "fs-extra": "^0.30.0",
+    "jsonexport": "^2.0.10",
+    "sync-request": "^2.0.1"
+  }
+}
