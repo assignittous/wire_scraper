@@ -3,7 +3,7 @@
 
 ## Overview
 
-This set of sample scripts scrapes episodes from the Wikipedia page for the Wire to show you the basics of scraping and parsing.
+This set of sample scripts scrapes episodes from the Wikipedia page for the Wire to show you the basics of scraping and parsing using NodeJS and Javascript.
 
 
 ## How It Works
